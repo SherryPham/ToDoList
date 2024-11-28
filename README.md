@@ -3,7 +3,7 @@
 </br>
 
 <p align="center">
-  <img src="/images/UI" alt="user-interface">
+  <img src="/images/UI.png" alt="user-interface">
 </p>
 
 A simple and interactive To-Do List application designed to help users manage their daily tasks efficiently. This app allows users to add, mark as complete, and delete tasks, with all data being saved locally in the browser's storage.
