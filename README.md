@@ -21,8 +21,8 @@ A simple and interactive To-Do List application designed to help users manage th
 
 ## Technologies Used
 
-- **HTML:** For structuring the application.
-- **CSS:** For styling the app with a clean and modern design.
-- **JavaScript:** For interactivity, including task addition, deletion, and local storage integration.
+- **HTML
+- **CSS
+- **JavaScript
 
 ---
